@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Jatin Verma
 
-<!--
-**jatinx-hub/jatinx-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Android Developer | Kotlin & Jetpack Compose Enthusiast**
 
-Here are some ideas to get you started:
+I build clean and responsive Android applications using Kotlin and Jetpack Compose.  
+I also enjoy creating simple web pages using HTML and CSS, and I’m always exploring new technologies to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Work With
+- **Languages:** Kotlin, HTML, CSS  
+- **Frameworks & Tools:** Jetpack Compose, DataStore, Git  
+- **Learning:** Room Database, Python, .NET  
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** [Jatin Verma](https://www.linkedin.com/in/jatin-verma-716519345/)  
+- **Email:** [way2jatinx@gmail.com](mailto:way2jatinx@gmail.com)
+
+---
+
+⭐ *Always learning, always building.*
